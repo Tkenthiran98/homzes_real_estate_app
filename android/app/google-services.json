@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "256429737542",
+    "project_id": "flutter-apps-4bf2d",
+    "storage_bucket": "flutter-apps-4bf2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256429737542:android:66fcb94a62f89470876c47",
+        "android_client_info": {
+          "package_name": "com.example.flipp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256429737542-kirlsincs2tb39756epp3g3tgf0in36i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAM9-jjIIy9kh_mn5TFCQU3kPVautaTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256429737542-kirlsincs2tb39756epp3g3tgf0in36i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256429737542-1f478orjbe4cvnftse7dt8t2oak37ed3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.customerManagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256429737542:android:7fc35ad3bdeeda47876c47",
+        "android_client_info": {
+          "package_name": "com.tvjk.agrimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256429737542-kirlsincs2tb39756epp3g3tgf0in36i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAM9-jjIIy9kh_mn5TFCQU3kPVautaTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256429737542-kirlsincs2tb39756epp3g3tgf0in36i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256429737542-1f478orjbe4cvnftse7dt8t2oak37ed3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.customerManagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256429737542:android:a0bfce21b97b0881876c47",
+        "android_client_info": {
+          "package_name": "com.visionexdigital.homzes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256429737542-kirlsincs2tb39756epp3g3tgf0in36i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAM9-jjIIy9kh_mn5TFCQU3kPVautaTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256429737542-kirlsincs2tb39756epp3g3tgf0in36i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256429737542-1f478orjbe4cvnftse7dt8t2oak37ed3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.customerManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
